@@ -2,3 +2,4 @@
 *.jpg
 *.pyc
 .ipynb_checkpoints/*
+processed-celeba-small.zip
